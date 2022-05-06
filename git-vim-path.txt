@@ -1,0 +1,1 @@
+c:\Program Files\Git\usr\bin\vim.exe
